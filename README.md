@@ -1,16 +1,15 @@
-#**Blinkit Performance Analysis**
-
+<h1>Blinkit Performance Analysis<h1>
 
 
 This project involves a comprehensive analysis of Blinkit's performance, customer satisfaction, and inventory distribution. The aim is to identify key insights and opportunities for optimization using various Key Performance Indicators (KPIs) and visualizations in Power BI.
 
-##**Project Overview**
+<h2>Project Overview<h2>
 
 
 
 The analysis focuses on understanding Blinkit's sales performance and customer satisfaction levels while optimizing inventory distribution. We leverage Power BI to visualize and analyze different business aspects, enabling data-driven decision-making.
 
-##Key Performance Indicators (KPIs)
+<h2>Key Performance Indicators (KPIs)<h2>
 
 
 
@@ -29,7 +28,8 @@ The following KPIs were identified and calculated to assess Blinkit's performanc
 
 
 
-##Business Requirements
+
+<h2>Business Requirements<h2>
 
 
 To meet business objectives, several analyses were conducted:
